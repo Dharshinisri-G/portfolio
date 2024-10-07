@@ -50,8 +50,3 @@ Ensure you have the following installed:
 - `src/`: Contains the source code of the project.
 - `public/`: Public assets such as images and icons.
 - `package.json`: Lists project dependencies and scripts.
-
-### License
-
-This project is licensed under the ISC License.
-
